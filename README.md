@@ -2,11 +2,11 @@
 
 A comprehensive Flutter application for tracking daily health activities, step counts, and wellness goals with a beautiful, modern UI.
 
-## Demo Video
+## 🎥 Demo Video
 
-<video src='screenshots/demovideo/Kazam_screencast_00007.mp4' width='1980' controls>
-  Your browser does not support the video tag.
-</video>
+[![Daily Health Tracker Demo](https://img.youtube.com/vi/VxosAUeHLTY/maxresdefault.jpg)](https://youtu.be/VxosAUeHLTY)
+
+**[▶️ Watch Full Demo on YouTube](https://youtu.be/VxosAUeHLTY)**
 
 *Watch the app in action showcasing authentication, health tracking, activity timer, and more!*
 
