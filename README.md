@@ -4,7 +4,9 @@ A comprehensive Flutter application for tracking daily health activities, step c
 
 ## Demo Video
 
-https://github.com/Dhiraj706Sardar/health-tracker-app/assets/screenshots/demovideo/Kazam_screencast_00007.webm
+<video src='screenshots/demovideo/Kazam_screencast_00007.mp4' width='1980' controls>
+  Your browser does not support the video tag.
+</video>
 
 *Watch the app in action showcasing authentication, health tracking, activity timer, and more!*
 
