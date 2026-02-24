@@ -1,0 +1,10 @@
+# Screenshots Directory
+
+Add your app screenshots here:
+
+- login.png - Login screen with Google Sign-In
+- dashboard.png - Main dashboard with timer and quick actions
+- health_graph.png - 7-day step count graph with statistics
+- activity_logs.png - Activity logs list with infinite scroll
+
+Recommended screenshot dimensions: 1080x2400 (9:19.5 aspect ratio)

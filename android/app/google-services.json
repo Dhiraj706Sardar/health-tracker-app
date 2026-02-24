@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461130495443",
+    "project_id": "dailyhealthtracker-52063",
+    "storage_bucket": "dailyhealthtracker-52063.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461130495443:android:6d1094f7c57c8ad759eb26",
+        "android_client_info": {
+          "package_name": "com.example.daily_health_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461130495443-rv0v6c0bh4kchejbrahkm1goo0mhe1j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7oqnK-2Do7pvGjwA2IN81KOqYE3clAfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461130495443-rv0v6c0bh4kchejbrahkm1goo0mhe1j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
