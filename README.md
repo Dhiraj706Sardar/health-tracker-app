@@ -4,11 +4,7 @@ A comprehensive Flutter application for tracking daily health activities, step c
 
 ## Demo Video
 
-<div align="center">
-  <video src="screenshots/demovideo/Kazam_screencast_00007.webm" width="1650" controls controlsList="nodownload" allowfullscreen>
-    Your browser does not support the video tag.
-  </video>
-</div>
+https://github.com/Dhiraj706Sardar/health-tracker-app/assets/screenshots/demovideo/Kazam_screencast_00007.webm
 
 *Watch the app in action showcasing authentication, health tracking, activity timer, and more!*
 
@@ -93,11 +89,10 @@ A comprehensive Flutter application for tracking daily health activities, step c
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/daily_health_tracker.git
-cd daily_health_tracker
+git clone https://github.com/Dhiraj706Sardar/health-tracker-app.git
 ```
 
-### 2. Install Dependencies
+### 2. Install Dependencies using Terminal
 
 ```bash
 flutter pub get
@@ -344,7 +339,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [Dhiraj Sardar](https://github.com/Dhiraj706Sardar/)
 - Email: sardardhiraj706@gmail.com
 
 ##  Acknowledgments
